@@ -49,13 +49,6 @@ streamlit run main.py
 3. "Sonuçları Hesapla" butonuna tıklayın
 4. Sonuçları görsel ve sayısal olarak inceleyin
 
-## Render.com Deployment
-
-1. Render.com hesabınıza giriş yapın
-2. "New +" butonuna tıklayın ve "Web Service" seçin
-3. GitHub reponuzu bağlayın
-4. Yapılandırma otomatik olarak `render.yaml` dosyasından alınacaktır
-5. "Create Web Service" butonuna tıklayın
 
 ## Lisans
 
