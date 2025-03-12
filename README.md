@@ -14,7 +14,7 @@ Bu uygulama, A/B test sonuçlarınızın istatistiksel analizini yapmanıza yard
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/ABTestAnalyzer.git
+git clone https://github.com/karamanhakan66/ABTestAnalyzer.git
 cd ABTestAnalyzer
 ```
 
@@ -54,12 +54,8 @@ streamlit run main.py
 1. Render.com hesabınıza giriş yapın
 2. "New +" butonuna tıklayın ve "Web Service" seçin
 3. GitHub reponuzu bağlayın
-4. Aşağıdaki ayarları yapın:
-   - Build Command: `pip install -r requirements.txt`
-   - Start Command: `streamlit run main.py`
-   - Python Version: 3.11
-   - Environment Variables: 
-     - `PYTHON_VERSION=3.11`
+4. Yapılandırma otomatik olarak `render.yaml` dosyasından alınacaktır
+5. "Create Web Service" butonuna tıklayın
 
 ## Lisans
 
@@ -67,4 +63,4 @@ MIT
 
 ## İletişim
 
-GitHub: [@KULLANICI_ADINIZ](https://github.com/KULLANICI_ADINIZ) 
+GitHub: [@karamanhakan66](https://github.com/karamanhakan66) 
